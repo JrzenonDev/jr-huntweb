@@ -4,3 +4,9 @@
     outline: 0;
     box-sizing: border-box; /* faz com que o padding não aumente a width e height dos elementos criados */
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fafafa;
+    color: #333;
+}
