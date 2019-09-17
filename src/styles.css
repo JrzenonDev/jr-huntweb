@@ -1,0 +1,6 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box; /* faz com que o padding não aumente a width e height dos elementos criados */
+}
